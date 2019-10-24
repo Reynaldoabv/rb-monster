@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/rb-monster/static/css/main.33866815.chunk.css",
+    "main.js": "/rb-monster/static/js/main.aedac219.chunk.js",
+    "main.js.map": "/rb-monster/static/js/main.aedac219.chunk.js.map",
+    "runtime-main.js": "/rb-monster/static/js/runtime-main.87270cee.js",
+    "runtime-main.js.map": "/rb-monster/static/js/runtime-main.87270cee.js.map",
+    "static/js/2.b6f6038c.chunk.js": "/rb-monster/static/js/2.b6f6038c.chunk.js",
+    "static/js/2.b6f6038c.chunk.js.map": "/rb-monster/static/js/2.b6f6038c.chunk.js.map",
+    "index.html": "/rb-monster/index.html",
+    "precache-manifest.e727e463c6ca662b87b7aae6c79ab16b.js": "/rb-monster/precache-manifest.e727e463c6ca662b87b7aae6c79ab16b.js",
+    "service-worker.js": "/rb-monster/service-worker.js",
+    "static/css/main.33866815.chunk.css.map": "/rb-monster/static/css/main.33866815.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87270cee.js",
+    "static/js/2.b6f6038c.chunk.js",
+    "static/css/main.33866815.chunk.css",
+    "static/js/main.aedac219.chunk.js"
+  ]
+}
