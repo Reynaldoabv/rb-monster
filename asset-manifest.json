@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/rb-monster/static/css/main.fb0fc8c6.chunk.css",
-    "main.js": "/rb-monster/static/js/main.c77f991d.chunk.js",
-    "main.js.map": "/rb-monster/static/js/main.c77f991d.chunk.js.map",
+    "main.js": "/rb-monster/static/js/main.88790058.chunk.js",
+    "main.js.map": "/rb-monster/static/js/main.88790058.chunk.js.map",
     "runtime-main.js": "/rb-monster/static/js/runtime-main.87270cee.js",
     "runtime-main.js.map": "/rb-monster/static/js/runtime-main.87270cee.js.map",
     "static/js/2.32e2b113.chunk.js": "/rb-monster/static/js/2.32e2b113.chunk.js",
     "static/js/2.32e2b113.chunk.js.map": "/rb-monster/static/js/2.32e2b113.chunk.js.map",
     "index.html": "/rb-monster/index.html",
-    "precache-manifest.a772804352ae4af0cac132c53ec3e191.js": "/rb-monster/precache-manifest.a772804352ae4af0cac132c53ec3e191.js",
+    "precache-manifest.bd29c33d8f95f6f2f54465fd009ee8dd.js": "/rb-monster/precache-manifest.bd29c33d8f95f6f2f54465fd009ee8dd.js",
     "service-worker.js": "/rb-monster/service-worker.js",
     "static/css/main.fb0fc8c6.chunk.css.map": "/rb-monster/static/css/main.fb0fc8c6.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.87270cee.js",
     "static/js/2.32e2b113.chunk.js",
     "static/css/main.fb0fc8c6.chunk.css",
-    "static/js/main.c77f991d.chunk.js"
+    "static/js/main.88790058.chunk.js"
   ]
 }
